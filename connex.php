@@ -1,7 +1,6 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: BeerHunters
+ * Created by Natalie Wiser-Orozco
  * Date: 2/6/18
  * Time: 8:43 AM
  */
